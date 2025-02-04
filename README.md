@@ -81,5 +81,3 @@ A function is provided to generate captions for new images. You can use the `gen
 - The code assumes that the Kaggle API key (`kaggle.json`) is uploaded to your Colab environment.
 - Save the trained model for later use.
 
-Feel free to modify the code as needed for your specific use case. Happy coding!
-
